@@ -1,0 +1,3 @@
+/home/ozil/CLionProjects/Assignment-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ozil/CLionProjects/Assignment-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ozil/CLionProjects/Assignment-1/cmake-build-debug/CMakeFiles/Assignment_1.dir
