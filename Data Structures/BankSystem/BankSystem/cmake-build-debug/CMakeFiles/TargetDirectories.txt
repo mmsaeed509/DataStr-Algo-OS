@@ -1,0 +1,3 @@
+C:/Users/Eng_Mahmoud/Desktop/GitHub/BankSystem/BankSystem/cmake-build-debug/CMakeFiles/BankSystem.dir
+C:/Users/Eng_Mahmoud/Desktop/GitHub/BankSystem/BankSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eng_Mahmoud/Desktop/GitHub/BankSystem/BankSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
